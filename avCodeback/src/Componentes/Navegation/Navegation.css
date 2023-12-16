@@ -1,0 +1,20 @@
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links ul{
+    display: flex;
+    text-decoration: none;
+}
+
+
+
+   
+
+ul li{
+
+    text-decoration: none;
+    color: rgba(145, 26, 109, 0.712);
+}
